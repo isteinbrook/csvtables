@@ -1,5 +1,5 @@
 # csvtables
-converts csv into html tables
+converts csv into html tables using php
 
 ## Function
 ```
